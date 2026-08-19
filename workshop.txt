@@ -1,0 +1,5 @@
+version=1
+title=Multi Safehouses by Borghal
+description=Multi Safehouses support for vanilla game.
+tags=Build 42
+visibility=unlisted
